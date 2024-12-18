@@ -13,4 +13,4 @@ If the LogicMods folder doesn't exist, create it manually (make sure that UE4SS 
 ## Usage
 When the replay is paused, the speed controls should show in the top left.
 ![image](https://github.com/user-attachments/assets/5a0ddef8-a617-4c86-8ce9-2714f306a6e3)
-If the speed controls still show when playing a sequence, make sure to pause the replay before playing the sequence.
+If the speed controls still show when playing a sequence, make sure to unpause the replay before playing the sequence.
