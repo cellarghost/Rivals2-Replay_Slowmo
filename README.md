@@ -1,5 +1,6 @@
 # Rivals2-Replay_Slowmo
  Allows Rivals 2 players to change the playback speed of replays. Ideal for cinematics and moviemaking.
+ Made using [lamenore's SDK for Rivals 2](https://github.com/lamenore/Rivals2ModdingKit).
 
 ## Installation
 
@@ -13,4 +14,3 @@ If the LogicMods folder doesn't exist, create it manually (make sure that UE4SS 
 When the replay is paused, the speed controls should show in the top left.
 ![image](https://github.com/user-attachments/assets/5a0ddef8-a617-4c86-8ce9-2714f306a6e3)
 If the speed controls still show when playing a sequence, make sure to pause the replay before playing the sequence.
-
