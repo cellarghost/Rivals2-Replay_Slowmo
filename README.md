@@ -2,6 +2,8 @@
  Allows Rivals 2 players to change the playback speed of replays. Ideal for cinematics and moviemaking.
  Made using [lamenore's SDK for Rivals 2](https://github.com/lamenore/Rivals2ModdingKit).
 
+<span style="color:red">**This mod has not been tested online and is not made for use in matchmaking. Please be careful about going online with it!**</span>
+
 ## Installation
 
 1. Install [UE4SS for Rivals 2](https://gamebanana.com/tools/18505)
